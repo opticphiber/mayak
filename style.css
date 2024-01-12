@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.slogan {
+    font-family: Open Sans;
+    font-weight: bold;
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+}
